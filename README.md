@@ -14,14 +14,7 @@ It uses Hugging Face Transformers, PyTorch, and DialoGPT to simulate real-time A
 
 ## 🛠️ Tech Stack
 
- Component	Technology
-Programming Language	Python
-NLP Framework	Hugging Face transformers
-Model Used	DialoGPT-medium
-Runtime	Jupyter Notebook
-Display Enhancements	HTML + IPython.display
-
-
+| Component	| Technology |
 | Programming Language | Python |
 | NLP Framework | Hugging Face transformers |
 | Model Used | microsoft/DialoGPT-medium |
